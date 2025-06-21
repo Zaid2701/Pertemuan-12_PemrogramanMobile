@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055080647545",
+    "project_id": "latihanzaid",
+    "storage_bucket": "latihanzaid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055080647545:android:8e8436b5b3078541337da8",
+        "android_client_info": {
+          "package_name": "com.myapplication.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCNRes7quxyS-QUQ8KXJ8giWKZnU4DbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055080647545:android:432a9f9bd8ef408a337da8",
+        "android_client_info": {
+          "package_name": "com.myapplication.zaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCNRes7quxyS-QUQ8KXJ8giWKZnU4DbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
